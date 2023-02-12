@@ -1,0 +1,8 @@
+sudo apt update && sudo apt upgrade -y
+sudo git clone https://github.com/novalanto010101/gg.git
+cd gg
+sudo chmod +x gaganode
+sudo apt-get update -y && sudo apt-get -y install curl tar ca-certificates && sudo apt-get -y install screen
+screen -R a2nk
+sudo ./gaganode
+sleep 9999h
